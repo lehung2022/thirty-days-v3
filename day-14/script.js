@@ -51,7 +51,7 @@ const team5 = Array.from(players);
 // with Objects
 const person = {
     name: 'Le Hung',
-    age: 32
+    age: 80
 };
 
 // and think we make a copy:
@@ -69,7 +69,7 @@ console.log(cap2);
 
 const Hung = {
     name: 'Hung',
-    age: 32,
+    age: 100,
     social: {
         youtube: '@hunggamer official',
         facebook: 'nguyenxi5000'
